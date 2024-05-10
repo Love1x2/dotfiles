@@ -3,7 +3,7 @@
 	font-family: "Roboto Mono";
 	background-color: #2D2D2D;
 	border-bottom: 3px solid;
-	border-image: linear-gradient(90deg, #8a8a8a, #5c5c5c);
+	border-image: linear-gradient(90deg, #f5f0ed, #d6d5d4);
 	border-image-slice: 1;
 }
 
@@ -13,7 +13,7 @@
 
 
 #entry:selected {
-	background: linear-gradient(90deg, #8a8a8a, #5c5c5c)
+	background: linear-gradient(90deg, #f5f0ed, #d6d5d4)
 }
 
 #text:selected{
