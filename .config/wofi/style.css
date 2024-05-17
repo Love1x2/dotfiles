@@ -3,7 +3,7 @@
 	font-family: "Roboto Mono";
 	background-color: #2D2D2D;
 	border-bottom: 3px solid;
-	border-image: linear-gradient(90deg, #f5f0ed, #d6d5d4);
+	border-image: linear-gradient(90deg, #a27ae4, #7240c3);
 	border-image-slice: 1;
 }
 
@@ -13,12 +13,9 @@
 
 
 #entry:selected {
-	background: linear-gradient(90deg, #f5f0ed, #d6d5d4)
+	background: linear-gradient(90deg, #a27ae4, #7240c3)
 }
 
 #text:selected{
 	color: #333333;
 }
-
-/*old colors
-/*00A5F4, #00E5D0
