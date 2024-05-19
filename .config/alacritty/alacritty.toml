@@ -1,23 +1,23 @@
 [window]
-opacity = 0.95
+opacity = 0.80
 
 [font]
 size = 10.0
 
 [font.bold]
-family = "Monospace"
+family = "MesloLGS NF"
 style = "Bold"
 
 [font.bold_italic]
-family = "Monospace"
+family = "MesloLGS NF"
 style = "Italic"
 
 [font.italic]
-family = "Monospace"
+family = "MesloLGS NF"
 style = "Italic"
 
 [font.normal]
-family = "Monospace"
+family = "MesloLGS NF"
 style = "Bold"
 
 [colors.primary]

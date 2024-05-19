@@ -1,6 +1,7 @@
  window {
 	font-size: 22px;
 	font-family: "Roboto Mono";
+	color: #FFFFFF;
 	background-color: #2D2D2D;
 	border-bottom: 3px solid;
 	border-image: linear-gradient(90deg, #a27ae4, #7240c3);
@@ -8,12 +9,13 @@
 }
 
 #entry {
-	padding: 0.25em;
+	padding: 0.2em;
 }
 
 
 #entry:selected {
 	background: linear-gradient(90deg, #a27ae4, #7240c3)
+	
 }
 
 #text:selected{
