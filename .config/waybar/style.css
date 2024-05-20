@@ -1,6 +1,6 @@
 @define-color base00 #181818;
 @define-color base01 #1E1E2E;
-@define-color base02 #393956;
+@define-color base02 #2D2D43;
 @define-color base03 #585858;
 @define-color base04 #ffffff;
 @define-color base05 #ffffff;
@@ -16,11 +16,17 @@
 @define-color base0F #a16946;
 
 * {
+
+
   transition: none;
   box-shadow: none;
 }
 
 #waybar {
+    border-radius: 6;
+    border: 2px solid #7240c3;
+ /* border-image: linear-gradient(45deg, #a27ae4, #7240c3) 1;
+    border-image-slice: 1; */
 	font-family: 'Source Code Pro';
 	font-size: 1.2em;
 	font-weight: 500;
@@ -102,3 +108,5 @@
 	font-weight: 500;
 	letter-spacing: -1px;
 }
+
+
