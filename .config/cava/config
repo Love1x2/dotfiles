@@ -223,8 +223,8 @@ sensitivity = 75
 # You can define as many as 8 different colors. They range from bottom to top of screen
  gradient = 1
  gradient_count = 2
- gradient_color_1 = "#7240c3"
- gradient_color_2 = "#a27ae4"
+ gradient_color_1 = "#6b7cd2"
+ gradient_color_2 = "#6b7cd2"
 
 
 
