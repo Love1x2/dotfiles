@@ -1,6 +1,6 @@
 @define-color base00 #181818;
-@define-color base01 #2C2C2C;
-@define-color base02 #2C2C2C;
+@define-color base01 #181818;
+@define-color base02 #181818;
 @define-color base03 #585858;
 @define-color base04 #ffffff;
 @define-color base05 #ffffff;
@@ -24,12 +24,10 @@
 
 #waybar {
     border-radius: 0;
-    border: 2px solid #6b7cd2;
- /* border-image: linear-gradient(45deg, #a27ae4, #7240c3) 1;
-    border-image-slice: 1; */
-	font-family: 'Source Code Pro';
-	font-size: 1.2em;
-	font-weight: 500;
+    border: 0px solid #6b7cd2;
+    font-family: 'Source Code Pro';
+    font-size: 1.2em;
+    font-weight: 500;
   color: @base04;
   background: @base01;
 }
